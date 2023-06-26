@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2065475862",
+    "project_id": "flex-hit",
+    "storage_bucket": "flex-hit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2065475862:android:2c43062c8e507fe8de8837",
+        "android_client_info": {
+          "package_name": "com.pimax.flexhit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2065475862-uihqbpml8fu2nm3s8on68kc1qs0mrpno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPTdn8aGExdd0rWRRx2bdtgvjHCydVEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2065475862-uihqbpml8fu2nm3s8on68kc1qs0mrpno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
